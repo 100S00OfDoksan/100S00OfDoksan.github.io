@@ -1,0 +1,1 @@
+import{A as t}from"./API.0f931b6e.js";import{c as a,a as n,F as s,o}from"./index.fa604b75.js";import"./index.2bd8ddc8.js";const e={login:()=>t().get("/kwd/test")},i=n("h1",null,"메인페이지",-1),l={__name:"Main",setup(t){const l=async()=>{await e.login()};return(t,e)=>(o(),a(s,null,[i,n("button",{onClick:l},"버튼")],64))}};export{l as default};

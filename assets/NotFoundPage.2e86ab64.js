@@ -1,0 +1,1 @@
+import{_ as a,c as n,o as e,a as o}from"./index.2e312cfe.js";const t={name:"NotFoundPage",data:()=>({})},d={id:"notFoundPage"},s=[o("h1",null,"페이지 경로를 찾을 수 없습니다.",-1)];const r=a(t,[["render",function(a,o,t,r,u,c){return e(),n("div",d,s)}]]);export{r as default};

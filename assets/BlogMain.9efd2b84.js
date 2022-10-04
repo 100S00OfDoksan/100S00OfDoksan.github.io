@@ -1,0 +1,1 @@
+import a from"./BlogWrite.15da8ce6.js";import"./index.2bd8ddc8.js";import{c as s,b as o,o as d}from"./index.15252c9a.js";import"./QCard.fe33e086.js";const e={class:"q-pa-md"},i={__name:"BlogMain",setup:i=>(i,r)=>(d(),s("div",e,[o(a)]))};export{i as default};
